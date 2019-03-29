@@ -1,5 +1,5 @@
-# Hands-On-Quantum-Computing-with-Python
-Hands-On Quantum Computing with Python by Packt Publishing
+# Learn-Quantum-Computing-with-Python
+Learn Quantum Computing with Python by Packt Publishing
 
 
 ![alt text](https://github.com/bhagvank/arc/blob/master/python_open.png)
